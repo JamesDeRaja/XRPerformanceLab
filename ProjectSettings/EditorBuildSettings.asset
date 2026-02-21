@@ -6,8 +6,11 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/SampleScene.unity
+    path: Assets/Scenes/StressTests.unity
     guid: 99c9720ab356a0642a771bea13969a05
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 052faaac586de48259a63d0c4782560b, type: 3}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: b44df0d079d754197884e07db1a592ca, type: 2}
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: 0825a3560a37342b694305c247e14fe5, type: 2}
+    xr.sdk.mock-hmd.settings: {fileID: 11400000, guid: b3cb74aef1fdf4f40894b1676904e89f, type: 2}
   m_UseUCBPForAssetBundles: 0
