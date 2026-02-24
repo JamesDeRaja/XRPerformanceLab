@@ -165,7 +165,7 @@ No unrelated variables introduced.
 
 # 📁 Evidence Files
 
-- `(Overdraw_Profiler_Comparison)[https://james.alphaden.club/lab/Overdraw_CPU_RenderThread_Comparison.png]`
+- (Overdraw_Profiler_Comparison)[https://james.alphaden.club/lab/Overdraw_CPU_RenderThread_Comparison.png]
 - `Overdraw_FrameDebugger_TransparentPass.png`
 
 Each capture corresponds to the metrics reported above.
