@@ -188,6 +188,7 @@ Each capture corresponds to the metrics reported above.
 James De Raja  
 Senior Real-Time Performance Engineer  
 Unity Rendering | Frame Pacing | XR Optimization
+[Portfolio](https://james.alphaden.club) | [LinkedIn](https://www.linkedin.com/in/james-de-raja/)
 
 ---
 
